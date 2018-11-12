@@ -1,4 +1,9 @@
-# wallet-vue
+# Cyptocurrency Dashboard similar to [blockchain.com](blockchain.com)
+
+Wanted a cypto-currency dashboard, couldn't find one, so I created one, and open sourced it.
+You can see the demo [here](https://bones-io.firebaseapp.com/)
+
+A PWA built with Vue and easily editable.
 
 ## Project setup
 ```
