@@ -25,7 +25,7 @@ yarn-error.log*
 did.txt
 
 # Exclude a png files
-*.png
+# *.png
 #  But include png files in the src/
 !src/assets/*.png
 
